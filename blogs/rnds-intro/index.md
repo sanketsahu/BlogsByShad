@@ -116,7 +116,7 @@ This looks pretty satisfying and states my thoughts on why I created this too.
 
 So these were a few of my failures while working on this. I learned a lot of things from webpack configs to compound components and a lot that I can't cover in this article. I know there are other great libraries available like [NativeBase](https://nativebase.io/) and [React Native Element](https://react-native-elements.github.io/react-native-elements/) but I was just trying to solve my own problems and this is the result of going through a lot of iteration.
 
-> [Sanket Sahu](https://twitter.com/sanketsahu) and [Nader Debit](https://twitter.com/dabit3) have done a great job on the libraries mentioned above. The name `React Native Design System` was suggested by Nader himself and I'm thankful to him for helping me in building this.
+> [Sanket Sahu](https://twitter.com/sanketsahu) and [Nader Dabit](https://twitter.com/dabit3) have done a great job on the libraries mentioned above. The name `React Native Design System` was suggested by Nader himself and I'm thankful to him for helping me in building this.
 
 # Design Rules
 This section is the core of this library and I have spent most of my time iterating this to make it better. *`It's not much but it's honest work.`*  
